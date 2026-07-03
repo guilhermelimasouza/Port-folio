@@ -1,0 +1,104 @@
+body {
+    font-family: Arial;
+    margin: 0;
+    text-align: center;
+
+    background-color: black;
+    color: white;
+    min-height: 100vh;
+}
+
+
+.cabecalho {
+    background-color: rgb(17, 0, 255);
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.contatos {
+    font-family: Arial;
+
+}
+
+h1 {
+    margin: 0;
+}
+
+img{
+    width: 250px;
+    border-radius: 15px;
+    transition: 0.3s;
+    box-shadow: 0 0 15px rgb(17, 0, 255);
+}
+
+img:hover{
+    transform: scale(1.05);
+}
+
+
+
+.conteudo-principal {
+    background-color: black;
+    color: white;
+    padding: 30px;
+}
+
+
+   .botao {
+    display: inline-block;
+    background-color: rgb(17, 0, 255);
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 22px;
+    margin-top: 15px;
+    cursor: pointer;
+    transition: 0.3;
+    font-weight: bold;
+}
+ 
+
+.botao:hover{
+    background-color:darkblue;
+    transform: scale(1.2);
+}
+
+
+.rodape {
+    background-color: black;
+    color: white;
+    padding: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+
+}
+
+
+
+.titulao{
+
+background-color: black;
+color: black;
+
+}
+
+.python{
+
+width: 230px;
+
+}
+
+.titulo2{
+
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin: 20;
+    text-align: center;
+
+    background-color: black;
+    color: rgb(17, 0, 255);
+    font-size: 40px;
+
+
+
+}
